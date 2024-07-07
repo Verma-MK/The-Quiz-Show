@@ -4,13 +4,13 @@ Welcome to The Quiz Show! This interactive Python-based quiz game challenges pla
 <br>
 <h2>Features</h2>
 <br>
-Multiple-choice Questions: Answer a variety of questions from different categories.
+● <b>Multiple-choice Questions</b>: Answer a variety of questions from different categories.
 <br>
-Lifelines: Use 50:50, Phone a Friend, or Ask the Audience to help answer questions.
+● <b>Lifelines</b>: Use 50:50, Phone a Friend, or Ask the Audience to help answer questions.
 <br>
-Scoring System: Earn money for each correct answer. Aim to win the maximum prize.
+● <b>Scoring Syste</b>m: Earn money for each correct answer. Aim to win the maximum prize.
 <br>
-Interactive UI: Terminal-based UI with colorful text for a better gaming experience.
+● <b>Interactive UI</b>: Terminal-based UI with colorful text for a better gaming experience.
 <br>
 <h2>How to Play</h2>
 <br>
