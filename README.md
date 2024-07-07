@@ -14,13 +14,13 @@ Interactive UI: Terminal-based UI with colorful text for a better gaming experie
 <br>
 <h2>How to Play</h2>
 <br>
-1. Start the game: Run the quiz_show.py script.
+1. Start the game: Run the 'quiz_show.py' script.
 <br>
 2. Answer the questions: For each question, you will be presented with multiple choices. Enter the number corresponding to your chosen answer.
 <br>
 3. Use lifelines wisely: You have three lifelines available:
 <br>
-   ●  50:50: Eliminates two incorrect options.
+   ●  50:50: Eliminates an incorrect option.
    <br>
    ●  Phone a Friend: Calls a friend who suggests an answer.
    <br>
